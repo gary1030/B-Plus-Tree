@@ -2,9 +2,11 @@
 This is a DB project.
 
 ## Compile
-'''
+```
 g++ BPTree.cpp -o BPTree
-'''
+```
+
+
 ## Usage
 1. Execute BPTree.exe.
 2. Enter degree of tree.
